@@ -4,6 +4,9 @@ body{
   margin:0 auto;
   padding: 0 15px;
 }
+.bd{
+  background: aquamarine;
+}
 nav{
   background-color: pink;
   padding: 10px;
@@ -41,8 +44,8 @@ img, video{
   border-radius: 7px;
   margin: 20px auto;
   display:block;
+  margin-left: 50px;
 }
-
 footer{
   background-color: revert;
   color: white;
