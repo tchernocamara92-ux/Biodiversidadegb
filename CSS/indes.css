@@ -1,11 +1,11 @@
 body{
   font-family: Arial, sans-serif;
-  background-color: turquoise;
+  background-color:turquoise;
   margin:0 auto;
   padding: 0 15px;
 }
 .bd{
-  background: aquamarine;
+  background: turquoise;
 }
 nav{
   background-color: pink;
@@ -44,7 +44,7 @@ img, video{
   border-radius: 7px;
   margin: 20px auto;
   display:block;
-  margin-left: 50px;
+  margin-left: 70px;
 }
 footer{
   background-color: revert;
